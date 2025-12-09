@@ -1,7 +1,7 @@
 package h2;
 
 public class SimpleList {
-	Node head;
+	public Node head;
 	
 	public SimpleList() {
 		head = new Node(Integer.MIN_VALUE);
